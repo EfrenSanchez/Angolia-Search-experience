@@ -70,8 +70,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 * **Efren Sanchez** - *Initial work* - [EfrenSanchez](https://github.com/EfrenSanchez)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
