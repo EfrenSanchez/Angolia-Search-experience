@@ -1,4 +1,4 @@
-# Project Title
+# Angolia Search experience 
 
 Basic React app and using Algolia to add search experience to app.
 
